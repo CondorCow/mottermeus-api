@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="mottermeus">
+    <output-path>$PROJECT_DIR$/out/artifacts/mottermeus</output-path>
+    <root id="root" />
+  </artifact>
+</component>
